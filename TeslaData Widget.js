@@ -491,7 +491,7 @@ theme.drawStatusLights = function(widget,car_data,colors,widgetSize){
 	}
 
 	theme.getClimateIcon = function(){
-		unlockSymbol = SFSymbol.named("snow");
+		unlockSymbol = SFSymbol.named("thermometer");
 		return unlockSymbol.image;
 	}
 
